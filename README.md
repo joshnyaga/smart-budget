@@ -1,16 +1,17 @@
-# budgetsmart
+# Smart Budget app
 
-A new Flutter project.
+Smart Budget helps you plan on your spending daily and gives you monthly analytics. It also helps you in setting your budget in the right way
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+The following app depends on flutter 3.0
 
-A few resources to get you started if this is your first Flutter project:
+Get all the dependencies
+```
+pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![plot](./splash.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![plot](./onboarding.png)
+![plot](./register.png)
