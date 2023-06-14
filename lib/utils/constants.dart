@@ -1,0 +1,1 @@
+const int MAIN_COLOR = 0xff39439D;
