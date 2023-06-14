@@ -11,7 +11,7 @@ Get all the dependencies
 pub get
 ```
 
-![plot](./splash.png)
+![plot](./splash.png||width=100)
 
-![plot](./onboarding.png)
-![plot](./register.png)
+![plot](./onboarding.png||width=100)
+![plot](./register.png||width=100)
