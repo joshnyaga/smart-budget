@@ -11,10 +11,10 @@ Get all the dependencies
 pub get
 ```
 
-<img src="./splash.png" width="100">
+<img src="./splash.png" width="400">
 
 
-<img src="./onboarding.png" width="100">
+<img src="./onboarding.png" width="400">
 
 
-![img|320x271,50%](./register.png)
+<img src="./register.png" width="400">
