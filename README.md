@@ -13,5 +13,6 @@ pub get
 
 ![plot](./splash.png =250x250)
 
-![plot](./onboarding.png =250x250)
+![[./onboarding.png|width]]
+
 ![plot](./register.png =250x250)
