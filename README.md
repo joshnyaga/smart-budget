@@ -13,6 +13,8 @@ pub get
 
 ![img|320x271,50%](./splash.png)
 
+<img src="./onboarding.png" width="100" height="100">
+
 ![img|320x271,50%](./onboarding.png)
 
 ![img|320x271,50%](./register.png)
