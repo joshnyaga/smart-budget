@@ -174,7 +174,30 @@ class _RegisterScreenState extends State<RegisterScreen> {
                                     )
                               ),
                             ),
-                            )
+                            ),
+                            Row(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              children: [
+                                Text(
+                                  "Already have an account?",
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.w400,
+                                      fontSize: 12,
+                                      color: Colors.grey[400]),
+                                ),
+                                TextButton(
+                                    onPressed: () => {
+                                      Navigator.push(context,MaterialPageRoute(builder: (context) => LoginScreen()))
+                                    },
+                                    child: const Text(
+                                      "Login",
+                                      style: TextStyle(
+                                          color: Color(constants.MAIN_COLOR),
+                                          fontSize: 12,
+                                          fontWeight: FontWeight.w400),
+                                    ))
+                              ],
+                            ),
                           ],
                         ),
                       ),
