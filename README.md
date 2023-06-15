@@ -15,4 +15,4 @@ pub get
 
 ![[./onboarding.png|width=100px]]
 
-![plot](./register.png =250x250)
+![img|320x271,50%](./register.png)
